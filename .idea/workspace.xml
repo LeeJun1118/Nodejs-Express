@@ -3689,7 +3689,7 @@
       <change afterPath="$PROJECT_DIR$/node_modules/yargs/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/testgitignore" beforeDir="false" afterPath="$PROJECT_DIR$/test/testgitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/testgitignore" beforeDir="false" afterPath="$PROJECT_DIR$/test/testgitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -3767,7 +3767,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579253478118</updated>
-      <workItem from="1579253479336" duration="20936000" />
+      <workItem from="1579253479336" duration="21177000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1579253689839</created>
@@ -3797,7 +3797,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579350618994</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <created>1579414600521</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579414600521</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <created>1579414684708</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579414684708</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -3807,7 +3821,8 @@
     <MESSAGE value="Init" />
     <MESSAGE value="ADD : get,post,put,delete" />
     <MESSAGE value="git ignore 테스트" />
-    <option name="LAST_COMMIT_MESSAGE" value="git ignore 테스트" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="510" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579350494339">
@@ -3818,11 +3833,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.-328.1920.1040@0.0.1536.824" timestamp="1579349385675" />
-    <state x="606" y="13" key="CommitChangelistDialog2" timestamp="1579414594134">
+    <state x="606" y="13" key="CommitChangelistDialog2" timestamp="1579414678759">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="606" y="13" key="CommitChangelistDialog2/0.0.1536.824/1920.-328.1920.1040@0.0.1536.824" timestamp="1579350612898" />
-    <state x="606" y="13" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1579414594134" />
+    <state x="606" y="13" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1579414678759" />
     <state x="388" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579253681635" />
     <state width="724" height="210" key="GridCell.Tab.0.bottom" timestamp="1579253976148">
       <screen x="0" y="0" width="1536" height="824" />
@@ -3840,11 +3855,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="724" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579253976148" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579414615038">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579414692791">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.-328.1920.1040@0.0.1536.824" timestamp="1579350626911" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1579414615038" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1579414692791" />
     <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579253695793" />
     <state x="459" y="8" width="618" height="807" key="find.popup" timestamp="1579331519969">
       <screen x="0" y="0" width="1536" height="824" />
